@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Docker
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 
 ## Setup Instructions
 
